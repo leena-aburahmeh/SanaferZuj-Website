@@ -22,7 +22,7 @@ A university guide website designed to help new students explore colleges, major
 
 ## ▶️ Live Demo
 
-https://leenaaburahmeh.github.io/SanaferZuj-Website/
+https://leena-aburahmeh.github.io/SanaferZuj-Website/
 
 ---
 
